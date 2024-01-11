@@ -1,0 +1,68 @@
+#setting-error-settings-update{
+    padding: 10px !important;
+    margin: 10px 0px 0px 0px;
+    width: 95%;
+}
+fieldset{
+	margin: 0px;
+	border: thin solid #ccc;
+	border-radius: 6px;
+	padding: 20px;
+	width: 96%;
+}
+.info_list{
+	margin: 0px;
+    border-radius: 0px;
+    padding: 0px;
+}
+.info_list li{
+	border: none;
+    list-style: disc inside;
+    padding: 0px 15px;
+}
+.info{
+	font-size: 22px;
+	display: inline;
+}
+.info i{
+	font-size: 18px;
+	display: inline;
+    font-weight:lighter;
+}
+.info shortcode{
+	font-size: 18px;
+	font-weight: bold;
+    display: inline-block;
+    padding-left: 10px;
+}
+.form-inline .form-group {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+.form-group {
+    margin-bottom: 12px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group .form-control {
+    display: block;
+    width: 100%;
+    height: 36px;
+    padding: 6px 12px;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
